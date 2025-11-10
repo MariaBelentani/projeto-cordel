@@ -90,12 +90,12 @@ section > p {
 }
 
 #img01 {
-   background-image: url(imagens/joaninha-flor.jpg);
+   background-image: url(./imagens/joaninha-flor.jpg);
    background-size: cover;
 }
 
 #img02 {
-   background-image: url(imagens/carta-escrita.avif);
+   background-image: url(./imagens/carta-escrita.avif);
    background-size: cover;
 }
 
